@@ -12,4 +12,6 @@ body {
 
 img {
   mix-blend-mode: color-burn;
+  aspect-ratio: 1/1;
+  width: 15%;
 }
