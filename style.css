@@ -3,7 +3,6 @@ h1 {
 }
 
 body {
-  background color: gray;
   border-radius: 10px;
   background: rgba(0,0,0,0.45);
   -webkit-backdrop-filter: blur(10px);
